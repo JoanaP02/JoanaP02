@@ -2,7 +2,7 @@
 
 I'm from Vila Real, Portugal. 🌍
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/JoanaP02">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoanaP02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     
@@ -12,7 +12,6 @@ I'm from Vila Real, Portugal. 🌍
   <img align="center" alt="Joana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
 </div>
   
   ##
