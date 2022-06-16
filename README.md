@@ -5,7 +5,7 @@
 ###
 🌍 I'm from Vila Real, Portugal. 
 
-🎓 I'm Studying Software Engineering at @University of Minho 
+🎓 I'm Studying Software Engineering @ University of Minho 
 
 
 ###
