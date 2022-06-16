@@ -1,5 +1,8 @@
-### Hi there 👋
+ Hello, I'm Joana! 👋👩‍💻
 
+I'm from Vila Real, Portugal. :flag_pt: 🇵🇹🌍
+
+###
 <!--
 **JoanaP02/JoanaP02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
