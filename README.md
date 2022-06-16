@@ -22,9 +22,11 @@ I'm from Vila Real, Portugal. 🌍
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake gif](https://github.com/narayanbavisett1/JoanaP02/blob/output/github-contribution-grid-snake.gif)
+  </div>
+  s
+ ![Snake gif](https://github.com/narayanbavisett1/JoanaP02/blob/output/github-contribution-grid-snake.gif)
  
-</div>
+
 <!--
 
 **JoanaP02/JoanaP02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
