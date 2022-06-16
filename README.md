@@ -1,4 +1,4 @@
-<!--
+
 ### Hello, I'm Joana! 👋👩‍💻
 
 I'm from Vila Real, Portugal. 🌍
@@ -24,7 +24,7 @@ I'm from Vila Real, Portugal. 🌍
   ![Snake animation](https://github.com/JoanaP02/JoanaP02/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
+<!--
 
 **JoanaP02/JoanaP02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
