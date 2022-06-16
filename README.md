@@ -1,9 +1,11 @@
 </div>
 
-## Hello, I'm Joana! 👋👩‍💻
+## 👋 Hello, I'm Joana! 👩‍💻
 
 ###
-I'm from Vila Real, Portugal. 🌍
+🌍 I'm from Vila Real, Portugal. 
+
+🎓 I'm Studying Software Engineering at @University of Minho 
 
 
 ###
@@ -11,7 +13,7 @@ I'm from Vila Real, Portugal. 🌍
   <a href="https://github.com/JoanaP02">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoanaP02&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     
-## Languages :    
+## 🚀 Languages :    
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Joana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,17 +27,18 @@ I'm from Vila Real, Portugal. 🌍
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoanaP02&layout=compact&langs_count=7&theme=dark"/>
  
 
- ## 📫 How to reach me:
+ ##  📱 How to reach me :
+ ###
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   
-   </div>
- 
-  
+ ##  💻 Contribution :
+ ###
+
 ![snake gif](https://github.com/JoanaP02/JoanaP02/blob/output/github-contribution-grid-snake.gif)
   
-
+</div>
 <!--
 ## Watch my contribution graph eaten by the snake🐍
 
