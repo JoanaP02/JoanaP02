@@ -2,9 +2,8 @@
 ## <p align="center"> 👋 Hello, I'm Joana! 👩‍💻
 
 ###
-<p align="center">
-  🌍 I'm from Vila Real, Portugal. 
-  🎓 I'm Studying Software Engineering @ University of Minho 
+<p align="center"> 🌍 I'm from Vila Real, Portugal. 
+<p align="center"> 🎓 I'm Studying Software Engineering @ University of Minho 
 
 
 ###
