@@ -14,13 +14,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoanaP02&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     
 ## 🚀 Languages :    
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Joana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Joana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Joana-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-  
-  ###
   
   <div align="center">
   
@@ -37,9 +30,13 @@
   
 </div>
   
+  ###
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoanaP02&layout=compact&langs_count=7&theme=dark"/>
+
+  ###
   
-  
-<div align="center"> 
+  <div align="center"> 
   
   ### Tools
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -49,13 +46,6 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  
 </div> 
-  
-  ###
-  
- 
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoanaP02&layout=compact&langs_count=7&theme=dark"/>
-
   
   
  ##  💻 Contribution :
