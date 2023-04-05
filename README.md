@@ -11,7 +11,7 @@
   <a href="https://github.com/JoanaP02">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoanaP02&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     
-## 🚀 Languages :    
+##   
   
   <div align="center">
   
@@ -27,12 +27,10 @@
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   
 </div>
-  
-  ###
+ 
     
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoanaP02&layout=compact&langs_count=7&theme=dark"/>
 
-  ###
   
   <div align="center"> 
   
