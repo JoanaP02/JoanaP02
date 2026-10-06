@@ -1,57 +1,45 @@
+<h1 align="center">Hello, I'm Joana 👋</h1>
 
-## <p align="center"> 👋 Hello, I'm Joana! 👩‍💻
+<p align="center">
+  Software Engineer | Integration Developer
+</p>
 
-###
-<p align="center"> 🌍 I'm from Vila Real, Portugal. 
-<p align="center"> 🎓 I'm Studying Software Engineering @ University of Minho 
+<p align="center">
+  📍 Portugal
+</p>
+
+## About Me
+
+I'm a Software Engineer with professional experience in enterprise integrations,
+automation and API development.
+
+Currently working with SAP Integration Suite, SuccessFactors and Boomi,
+building and supporting integrations using REST, SOAP, OData, OAuth2, SFTP and Groovy.
+
+I hold a Master's degree in Software Engineering from the University of Minho,
+where I specialized in Intelligent Systems and Language Engineering.
+
+I'm particularly interested in Software Engineering, Backend Development,
+AI and Digital Health.
+
+## Tech Stack
+
+**Languages**  
+Python · Java · C# · JavaScript · SQL · Groovy
+
+**Backend & Integration**  
+REST APIs · SOAP · OData · OAuth2 · SAP Integration Suite · Boomi · SuccessFactors
+
+**Development**  
+Git · Linux · Postman · MySQL · MongoDB · Node.js · React · .NET
+
+**Other**  
+Unity · Meta Quest · Pandas · NumPy
 
 
-###
-<div align="center">
-  <a href="https://github.com/JoanaP02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoanaP02&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    
-##   
-  
-  <div align="center">
-  
-  ### Programming Languages
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-%2300599C.svg?style=for-the-badge&logo=sql&logoColor=white)
-  ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  
-</div>
- 
-    
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoanaP02&layout=compact&langs_count=7&theme=dark"/>
+## Certifications
 
-  
-  <div align="center"> 
-  
-  ### Tools
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-  ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
- 
-</div> 
-  
- ## 
- ### 💻 Contribution :
- 
-
-![snake gif](https://github.com/JoanaP02/JoanaP02/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-<!--
-## Watch my contribution graph eaten by the snake🐍
-
-**JoanaP02/JoanaP02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- SAP Certified Associate – Integration Developer
+- Boomi Professional Integration Developer
+- Boomi Integration Architect
+- Boomi Runtime Architect
