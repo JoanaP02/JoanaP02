@@ -1,13 +1,3 @@
-<h1 align="center">Hello, I'm Joana 👋</h1>
-
-<p align="center">
-  Software Engineer | Backend & Integration Development
-</p>
-
-<p align="center">
-  📍 Portugal
-</p>
-
 ## 👩‍💻 About Me
 
 I'm a Software Engineer with professional experience in enterprise integrations,
